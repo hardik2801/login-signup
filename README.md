@@ -1,4 +1,4 @@
-# book-appointments
+# login-signup
 An app that lets you book appointments with other users
 
 Step 1) Make a mongodb database named 'cl' and in that database make a collection named 'users'
