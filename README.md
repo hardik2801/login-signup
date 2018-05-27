@@ -1,7 +1,7 @@
 # book-appointments
 An app that lets you book appointments with other users
 
-Step 1) Make a mongodb database named 'pg' and in that database make a collection named 'users'
+Step 1) Make a mongodb database named 'cl' and in that database make a collection named 'users'
 
 Step 2) git clone
 
