@@ -22,7 +22,7 @@
     "fs-extra": "^0.26.5",
     "jsonwebtoken": "^8.2.0",
     "lodash": "^4.17.2",
-    "mongoose": "^4.3.7",
+    "mongoose": "^5.9.2",
     "nodemailer": "^4.6.5",
     "passport": "^0.3.2",
     "passport-jwt": "^3.0.1",
